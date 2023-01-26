@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\bin\Debug\Hotel dla zwierząt.exe.config
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\bin\Debug\Hotel dla zwierząt.exe
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\bin\Debug\Hotel dla zwierząt.pdb
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\obj\Debug\Hotel dla zwierząt.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\obj\Debug\Hotel dla zwierząt.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\obj\Debug\Hotel dla zwierząt.exe
+C:\Users\angel\OneDrive\Pulpit\PROJEKT\Hotel dla zwierząt\obj\Debug\Hotel dla zwierząt.pdb
